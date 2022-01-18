@@ -11,4 +11,15 @@
 
 * Windows directly installed by default
 * If you can't open in the MacOS after downloading, look here
-![image](https://github.com/gccaizr/picture/blob/c3ded8cc8e0a188b331606be182a3ed6e51f4bd7/images/%E6%A9%99%E5%AD%90%E5%A4%B4%E5%83%8F.jpg)
+  * Step1
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/1.png)
+  * Step2
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/2.png)
+  * Step3
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/3.png)
+  * Step4
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/4.png)
+  * Step5
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/5.png)
+  * Step6
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/6.png)
