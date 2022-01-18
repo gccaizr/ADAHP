@@ -9,7 +9,7 @@
 ## 2.Installation tutorials
 
 
-* Windows directly installed by default
+* Directly installed by default in the Windows 
 * If you can't open in the MacOS after downloading, look here
   * Step1<br>
 ![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/1.png)<br>
