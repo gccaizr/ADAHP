@@ -1,6 +1,6 @@
 # ADAHP installation resources and tutorials
-an automated interactive system for AHP calculation and consistency adjustment based on MATLAB, and integrates four judgment matrix consistency adjustment methods (including GAOHP), which can intuitively, conveniently and quickly realize the calculation of analytic hierarchy process and the consistency adjustment of judgment matrix.<br>
-Here are the installation resources and tutorials，users select the corresponding version according to their own computer system.<br>
+* An automated interactive system for AHP calculation and consistency adjustment based on MATLAB, and integrates four judgment matrix consistency adjustment methods (including GAOHP), which can intuitively, conveniently and quickly realize the calculation of analytic hierarchy process and the consistency adjustment of judgment matrix.<br>
+* Here are the installation resources and tutorials，users select the corresponding version according to their own computer system.<br>
 
 ## 1.Installation resources
 * [Windows version click here to download](https://github.com/gccaizr/ADAHP/releases/download/v1.0/windows_redistribution.zip)<br>
