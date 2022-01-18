@@ -11,15 +11,15 @@
 
 * Windows directly installed by default
 * If you can't open in the MacOS after downloading, look here
-  * Step1
-![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/1.png)
-  * Step2
-![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/2.png)
-  * Step3
-![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/3.png)
-  * Step4
-![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/4.png)
-  * Step5
-![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/5.png)
-  * Step6
-![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/6.png)
+  * Step1<br>
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/1.png)<br>
+  * Step2<br>
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/2.png)<br>
+  * Step3<br>
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/3.png)<br>
+  * Step4<br>
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/4.png)<br>
+  * Step5<br>
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/5.png)<br>
+  * Step6<br>
+![image](https://github.com/gccaizr/picture/blob/54c23c0f90fed559a9fda453cdf8e60b559025e1/images/6.png)<br>
